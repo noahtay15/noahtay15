@@ -4,7 +4,7 @@
 
 <h2> Software Development Projects:</h2>
   
-  <h3>Data Structures with Java</h3>
+  <h3>Java</h3>
     <ul>
       <li>
         <a href = "">Placeholder</a>
@@ -16,7 +16,7 @@
         <a href = "">Placeholder</a>
       </li>
     </ul>
-  <h3> Python Programming </h3>
+  <h3>Python</h3>
     <ul>
       <li>
         <a href = "">Placeholder</a>
