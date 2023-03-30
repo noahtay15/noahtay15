@@ -7,7 +7,8 @@
   <h3>Java</h3>
     <ul>
       <li>
-        <a href = "">Placeholder</a>
+        <a href = "https://github.com/noahtay15/DnDCharacterCreator" target = _blank>DnD Character Creator</a>
+        <p> This is a text-based program entirely in Java. It was the final project of my freshman Data Structures and Program Design class. I have not gone back to refactor this code as of yet since freshman year, but I intend to completely redo this eventually.</p>
       </li>
       <li>
         <a href = "">Placeholder (Tree traversal in CPSC 3200 Advanced Data Structures and Algorithm Analysis)</a>
