@@ -27,7 +27,7 @@
   <p>These repositories are mainly going to contain things from my File and Database Processing class. In that class I used MySQL, basic HTML to interact with the database, and PHP. I did not learn CSS in order to make the html files more "pretty", but since then I have taught myself basic CSS, and intend to continue doing so at some point in the future.</p>
     <ul>
       <li>
-        <a href = "">Placeholder Invalid Link</a>
+        <a href = "https://github.com/noahtay15/sha_lookupDB">Sha Value Password Lookup</a>
       </li>
     </ul>
 <!--
