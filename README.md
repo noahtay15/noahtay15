@@ -25,4 +25,11 @@
         <p> Final project of my File and Database Processing class. Contains a locally hosted html that asks you to input the sha value of common passwords. The program will query the database that it makes and gives you the password from it, if it is stored in the database.</p>
       </li>
     </ul>
+   <h3>Personal Projects</h3>
+    <ul>
+      <li>
+        <a href = "https://github.com/noahtay15/Word-Guesser">Word Guesser</a>
+        <p>Personal Project Jeopardy game. I intend to complete this over summer 2023.</p>
+      </li>
+    </ul>
 <!--
