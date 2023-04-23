@@ -7,7 +7,7 @@
   <ul>
     <li>
       <a href = "https://github.com/noahtay15/peer8-Peer_Review_Web_Application">Peer8 Peer Review Web Application System</a>
-      <p>This was the final project of my Software Engineering class. We were tasked to make a peer review system that stored (Description work in progress)</p>
+      <p>This was the final project of my Software Engineering class. We were tasked to make a peer review system that allowed student and instructor accounts. This project was meant as a simulation of Scrum Agile development methodology. We only completed one sprint, so the entire project isn't fully complete, but there is a lot done, plus a whole lot of documentation. In this repository there is both the documentation for sprint 1, and some documentation for what sprint 2 would look like, if we were to actually continue the development. </p>
     </li>
   </ul>
   
@@ -43,7 +43,7 @@
     <ul>
       <li>
         <a href = "https://github.com/noahtay15/Word-Guesser">Word Guesser</a>
-        <p>Personal Project Jeopardy game. I intend to complete this over summer 2023.</p>
+        <p>Personal Project Jeopardy game. I intend to complete this over summer 2023. Probably going to use HMTL, CSS, JavaScript, and Java. </p>
       </li>
     </ul>
 <!--
