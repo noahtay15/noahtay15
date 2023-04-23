@@ -1,4 +1,3 @@
-<h1> This page is a work in progress. Not completed yet</h1>
 <h1>Noah Taylor</br><a href= "https://www.linkedin.com/in/noah-taylor-58b50020b/">LinkedIn</a></h1>
 
 <h2>Software Development Projects:</h2>
