@@ -22,8 +22,11 @@
     <ul>
       <li>
         <a href = "https://github.com/noahtay15/sha_lookupDB">Sha Value Password Lookup</a>
-        <p> Final project of my File and Database Processing class. Contains a locally hosted html that asks you to input the sha value of common passwords. The program will query the database that it makes and gives you the password from it, if it is stored in the database.</p>
+        <p>Final project of my File and Database Processing class. Contains a locally hosted html that asks you to input the sha value of common passwords. The program will query the database that it makes and gives you the password from it, if it is stored in the database.</p>
       </li>
+      <li>
+        <a href = "https://github.com/noahtay15/Film_Management_Database">Film Management Database Project</a>
+        <p>Another course assignment from my File and Database Processing Class. Used HTML, PHP, and MySQL queries to add new films to the database and pull up a table with all the customers, with a list of things like their addresses and films they have rented in the past.</p>
     </ul>
    <h3>Personal Projects</h3>
     <ul>
