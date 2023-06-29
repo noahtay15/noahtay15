@@ -6,7 +6,7 @@
     <ul>
       <li>
         <a href = "https://github.com/noahtay15/Word-Guesser">Word Guesser</a>
-        <p>Personal Project Jeopardy game. I intend to complete this over summer 2023. Made in WPF using .NT and XAML.</p>
+        <p>Personal Project Jeopardy game. I intend to complete this over summer 2023. Made in WPF using .NET and XAML.</p>
       </li>
     </ul>
   <h3>Software Engineering Final</h3>
