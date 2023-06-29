@@ -2,6 +2,13 @@
 
 <h2>Software Development Projects:</h2>
 
+   <h3>Personal Projects</h3>
+    <ul>
+      <li>
+        <a href = "https://github.com/noahtay15/Word-Guesser">Word Guesser</a>
+        <p>Personal Project Jeopardy game. I intend to complete this over summer 2023. Made in WPF using .NT and XAML.</p>
+      </li>
+    </ul>
   <h3>Software Engineering Final</h3>
   <ul>
     <li>
@@ -37,12 +44,3 @@
         <a href = "https://github.com/noahtay15/Film_Management_Database">Film Management Database Project</a>
         <p>Another course assignment from my File and Database Processing Class. Used HTML, PHP, and MySQL queries to add new films to the database and pull up a table with all the customers, with a list of things like their addresses and films they have rented in the past.</p>
     </ul>
-    
-   <h3>Personal Projects</h3>
-    <ul>
-      <li>
-        <a href = "https://github.com/noahtay15/Word-Guesser">Word Guesser</a>
-        <p>Personal Project Jeopardy game. I intend to complete this over summer 2023. Probably going to use HMTL, CSS, JavaScript, and Java. </p>
-      </li>
-    </ul>
-<!--
