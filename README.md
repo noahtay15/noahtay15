@@ -33,7 +33,7 @@
     <ul>
       <li>
         <a href = "https://github.com/noahtay15/Python-Coursework-CPSC2100">Python Coursework CPSC 2100</a>
-        <p>This is just the midterm and final python programming questions I had for my sophomore Software Design and Development class</p>
+        <p>This is just the midterm and final python programming questions I had for my sophomore Software Design and Development class. Also added a few other small assignments.</p>
       </li>
     </ul>
     
