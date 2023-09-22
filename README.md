@@ -6,7 +6,7 @@
     <ul>
       <li>
         <a href = "https://github.com/noahtay15/Word-Guesser">Word Guesser</a>
-        <p>Personal Project Jeopardy game. I intend to complete this over summer 2023. Made in WPF using .NET and XAML.</p>
+        <p>A 1-4 player Jeopardy-style game showcasing my recently obtained skills in .NET. This project faithfully replicates the Jeopardy format, featuring 5 categories, each with 4 randomly selected questions, adding an element of limited replayability. Additionally, players have the flexibility to personalize their gaming experience by inputting custom names and theme colors.</p>
       </li>
        <li>
           <a href = "https://github.com/noahtay15/Jokes-Database">Jokes Database Web App</a>
