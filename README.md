@@ -18,7 +18,9 @@
    <ul>
       <li>
          <a href="https://github.com/noahtay15/Transportation-Flow-Analysis">Transportation Flow Analysis</a>
-         <p>Work in progress fall 2023.</p>
+         <p>Given the prevailing uncertainties within the industry, the College of Engineering and Computer Science at the University of Tennessee at Chattanooga was approached with a collaborative request from FreightWaves, a Chattanooga-based freight price reporting agency, to analyze and illustrate the intricate interplay between the evolving population distribution of the 2020s and the flow of freight. We we charged with collecting data and mapping out our findings with the Folium Python library, as well as writing a comprehensive whitepaper on our findings.
+
+Technologies Used: Python, Folium, SQLite3</p>
       </li>
    </ul>
   <h3>Software Engineering Final</h3>
